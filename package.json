@@ -1,0 +1,22 @@
+{
+  "name": "proxy-provider",
+   "version": "0.0.1",
+  "description": "this plugin gives the current proxy being used",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "ember-addon"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/abhishekchaudhary/proxy-provider.git"
+  },
+  "author": "abhishek chaudhary",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/abhishekchaudhary/proxy-provider/issues"
+  },
+  "homepage": "https://github.com/abhishekchaudhary/proxy-provider"
+}
