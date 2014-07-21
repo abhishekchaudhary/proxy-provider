@@ -15,14 +15,14 @@ From within your Ember CLI application (must be > 0.0.36), run the following:
 ```bash
 npm install --save-dev proxy-provider
 ```
-## After installing require the package
+#### After installing require the package
  
-## Example:
+#### Example:
 
-## var proxy_method = require('ember-cli-body-parser');
+#### var proxy_method = require('ember-cli-body-parser');
 
-## var proxy_url= proxy_method.prototype.get_proxy() ;   (will give the proxy being used)
+#### var proxy_url= proxy_method.prototype.get_proxy() ;   (will give the proxy being used)
 
 
-## Stay tuned for more versions and other npm plugins.
+#### Stay tuned for more versions and other npm plugins.
 
