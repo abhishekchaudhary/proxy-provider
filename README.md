@@ -1,7 +1,7 @@
 proxy-provider
 ==============
 
-## this node module provides the current being proxy used by the application if any.
+## this node module provides the current proxy used by the application if any.
 
 ### Requires ember-cli >= 0.0.37, which is currently unreleased. ([Added here](https://github.com/stefanpenner/ember-cli/pull/1097))
 
